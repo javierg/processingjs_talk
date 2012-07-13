@@ -126,7 +126,11 @@ body {
 	font-weight: normal;
 }
 
-.reveal strong, 
+.reveal .slides section p, .reveal .slides section li{
+  margin-bottom: 0.6em;
+}
+
+.reveal strong,
 .reveal b {
 	font-weight: bold;
 }
@@ -1000,4 +1004,8 @@ body {
 
 .reveal aside.notes {
 	display: none;
+}
+
+ol#toc {
+  list-style-type: upper-roman;
 }
