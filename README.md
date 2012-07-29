@@ -16,3 +16,5 @@ After this just run the node server
     node server
     
 And open on your browser [this presentation](http://localhost:8080)
+
+*The processing samples won't run on gh-pages*
