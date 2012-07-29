@@ -1,3 +1,4 @@
+/* @pjs pauseOnBlur="true"; */
 // 	(C) JOAO MARTINHO MOURA, 2011
 //
 //		www.jmartinho.net
