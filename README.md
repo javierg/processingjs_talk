@@ -1,4 +1,18 @@
-processingjs_talk
+Processing JS Talk
+====================
 
-Data Set 1
-http://www.iffhs.de/?d85f94e8378cf047b0f02f68e05b85fdcdc3bfcdc0aec70aeedb8a38820a
+This was created for demostrating processingjs to the crowd of TijuanaJS.
+
+For running the samples download and install [nodejs](http://www.nodejs.org)
+
+Install [npm](http://npmjs.org) (if your node installation desn't come with it already)
+
+Also the following node package is required:
+
+    npm install connect
+    
+After this just run the node server
+
+    node server
+    
+And open on your browser [this presentation](http://localhost:8080)
