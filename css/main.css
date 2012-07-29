@@ -1009,3 +1009,10 @@ body {
 ol#toc {
   list-style-type: upper-roman;
 }
+
+.whiteboard {
+  background-color: #FFF;
+   width: 3000px;
+   height: 2000px;
+   margin-left: -1000px;
+}
